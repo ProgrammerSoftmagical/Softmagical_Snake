@@ -5,6 +5,7 @@
 #include <stdio.h>
 /*
 Softmagical.info
+Shukur Huseynov
 */
 float oval_x,oval_y;
 int click;
