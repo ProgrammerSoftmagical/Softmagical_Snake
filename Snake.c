@@ -3,9 +3,9 @@
 #include <math.h>
 #include <stdlib.h>
 #include <stdio.h>
- // GLUT, include glu.h and gl.h
-/* Handler for window-repaint event. Call back when the window first appears and
-   whenever the window needs to be re-painted. */
+/*
+Softmagical.info
+*/
 float oval_x,oval_y;
 int click;
 int score;
